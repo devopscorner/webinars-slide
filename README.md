@@ -1,6 +1,14 @@
-# Webinar Slide
+# Webinar's Slide
 
-Webinar Slide Presentation for Public
+![all contributors](https://img.shields.io/github/contributors/devopscorner/webinars-slide)
+![tags](https://img.shields.io/github/v/tag/devopscorner/webinars-slide?sort=semver)
+![issues](https://img.shields.io/github/issues/devopscorner/webinars-slide)
+![pull requests](https://img.shields.io/github/issues-pr/devopscorner/webinars-slide)
+![forks](https://img.shields.io/github/forks/devopscorner/webinars-slide)
+![stars](https://img.shields.io/github/stars/devopscorner/webinars-slide)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Webinar's Slide Presentation for Public
 
 ## Copyright
 - Author: **Dwi Fahni Denni (@zeroc0d3)**
